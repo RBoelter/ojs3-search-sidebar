@@ -6,5 +6,5 @@
 ![alt text](https://user-images.githubusercontent.com/7657717/59513875-0dead380-8ebc-11e9-82dd-bde896d7495c.png)
 
 
-#### Go to Settings->Website->Appearance and scroll down to Sidebar management. Drag the Announcements Plugin to the Sidebar:
+#### Go to Settings->Website->Appearance and scroll down to Sidebar management. Drag the Search Plugin to the Sidebar:
 ![alt text](https://user-images.githubusercontent.com/7657717/59513876-0dead380-8ebc-11e9-9958-aa119618dcd2.png)
