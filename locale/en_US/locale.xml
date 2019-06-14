@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE locale SYSTEM "../../../../../lib/pkp/dtd/locale.dtd">
+<locale name="en_US" full_name="U.S. English">
+    <message key="plugins.blocks.search.title">Search Block</message>
+    <message key="plugins.blocks.search.desc">This plugin provides the Search in the sidebar.</message>
+</locale>
