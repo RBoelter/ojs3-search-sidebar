@@ -1,5 +1,4 @@
 <div class="pkp_block block_search">
-
     <form role="search" method="post" action="{url page="search" op="search"}">
         {csrf}
         <input class="block_search_input" name="query" value="{$searchQuery|escape}" type="text"
