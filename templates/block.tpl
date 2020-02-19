@@ -6,4 +6,5 @@
                placeholder="">
         <button type="submit" class="block_search_submit">{translate key="common.search"}</button>
     </form>
+    
 </div>
